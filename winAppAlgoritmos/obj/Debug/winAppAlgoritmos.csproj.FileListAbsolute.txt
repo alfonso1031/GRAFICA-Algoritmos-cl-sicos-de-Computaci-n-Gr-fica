@@ -1,0 +1,10 @@
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\bin\Debug\winAppAlgoritmos.exe.config
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\bin\Debug\winAppAlgoritmos.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\bin\Debug\winAppAlgoritmos.pdb
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.csproj.AssemblyReference.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.Properties.Resources.resources
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.csproj.GenerateResource.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.exe
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.pdb
+C:\Users\alfon\OneDrive\Escritorio\Alfonsoooo\ESPE\COMPUTACION GRAFICA\winAppAlgoritmos\obj\Debug\winAppAlgoritmos.exe.config
