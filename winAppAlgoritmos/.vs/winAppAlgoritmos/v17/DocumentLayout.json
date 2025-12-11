@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|solutionrelative:frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|c:\\users\\alfon\\onedrive\\escritorio\\alfonsoooo\\espe\\computacion grafica\\winappalgoritmos\\frmalgoritmos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|solutionrelative:frmalgoritmos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|c:\\users\\alfon\\onedrive\\escritorio\\alfonsoooo\\espe\\computacion grafica\\winappalgoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|solutionrelative:frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|c:\\users\\alfon\\onedrive\\escritorio\\alfonsoooo\\espe\\computacion grafica\\winappalgoritmos\\calgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\calgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|solutionrelative:calgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|c:\\users\\alfon\\onedrive\\escritorio\\alfonsoooo\\espe\\computacion grafica\\winappalgoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A43289AD-B46B-464E-A9DF-9D72C2829DE5}|winAppAlgoritmos.csproj|solutionrelative:frmalgoritmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 274,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +38,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmAlgoritmos.Designer.cs",
               "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmAlgoritmos.Designer.cs",
               "RelativeDocumentMoniker": "frmAlgoritmos.Designer.cs",
               "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmAlgoritmos.Designer.cs",
               "RelativeToolTip": "frmAlgoritmos.Designer.cs",
-              "ViewState": "AgIAAPYAAAAAAAAAAAAAAAYBAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAmwJ8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T03:53:06.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmAlgoritmos.cs",
               "DocumentMoniker": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmAlgoritmos.cs",
               "RelativeDocumentMoniker": "frmAlgoritmos.cs",
               "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\frmAlgoritmos.cs",
               "RelativeToolTip": "frmAlgoritmos.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAmwKYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAmwBwBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T03:51:51.937Z",
               "EditorCaption": ""
@@ -70,7 +70,7 @@
               "RelativeDocumentMoniker": "CAlgoritmos.cs",
               "ToolTip": "C:\\Users\\alfon\\OneDrive\\Escritorio\\Alfonsoooo\\ESPE\\COMPUTACION GRAFICA\\winAppAlgoritmos\\CAlgoritmos.cs",
               "RelativeToolTip": "CAlgoritmos.cs",
-              "ViewState": "AgIAAHEBAAAAAAAAAAAmwJMBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAOcAAAAAAAAAAAA6wBABAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-11T03:51:14.402Z",
               "EditorCaption": ""
